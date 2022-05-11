@@ -1,0 +1,14 @@
+{
+  "name": "boxscore-api",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "https://github.com/meredithmurfin/boxscore-api.git",
+  "author": "Meredith Murfin <meredithmurfin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
